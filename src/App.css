@@ -1,14 +1,11 @@
+
 *{
-  background-color: #282c34;
+	background-color: #282c34;
 }
 .App {
-  background-color: #282c34;
+	background-color: #282c34;
 }
-.navBar{
-  display: flex;
-  justify-content: space-around;
-  
-}
+
 .App h1{
-  align-content: bottom;
+	align-content: bottom;
 }
