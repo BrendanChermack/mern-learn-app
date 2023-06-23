@@ -1,8 +1,8 @@
 import './App.css';
-import CusNavBar from'./components/NavBar.js';
+import 'bootstrap/dist/css/bootstrap.css';
+import NavBar from './components/NavBar';
 const App = () => {
 return (
-	<CusNavBar/>
-);};
-
+	<NavBar />
+)};
 export default App;
